@@ -1,0 +1,37 @@
+
+h1{
+	color: orange;
+	font-family: cursive;
+
+}
+
+h2{
+	color:gray;
+	font-family: Verdana;
+}
+
+p{
+	color: red;
+}
+
+div{
+	display: inline-block;
+	position: relative;
+	left: 2px;
+	margin:left;
+
+}
+
+
+h6{
+	color: white;
+	position: absolute;
+	top: 160px;
+	left:100px;
+	width: 100%;
+	font-family: Courier;
+}
+
+body{
+	background:url(img/fondo.jpg);
+}
